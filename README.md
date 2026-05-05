@@ -1,4 +1,4 @@
-# Danny (CYH) — Founder & Product Builder
+# Danny 
 
 I build intelligent products from concept to launch, focusing on AI/LLM, developer tools, and computer vision for skincare. With 10+ years in product and engineering, I bridge strategy and code—precision over speed for mature products.
 
