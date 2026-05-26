@@ -14,7 +14,8 @@ AI-powered cosmetics ingredient & skin decision assistant: scan labels, interpre
 Lightweight, terminal-first AI IDE for fast, command-driven dev flow.
 
 [![twlint](https://img.shields.io/badge/twlint-npm-cb3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/@termdock/twlint)
-[![twlint](https://img.shields.io/badge/twlint-github-111111?style=flat&logo=github)]([https://github.com/Termdock-dev/twlint)  
+[![twlint](https://img.shields.io/badge/twlint-github-111111?style=flat&logo=github)]([https://github.com/Termdock-dev/twlint)
+
 CLI tool for Traditional Chinese text linting.
 
 ## Contact
