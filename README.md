@@ -18,6 +18,13 @@ Lightweight, terminal-first AI IDE for fast, command-driven dev flow.
 
 CLI tool for Traditional Chinese text linting.
 
+## Open Source @ GitLab
+
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/fongse/banner.svg)](https://contributors.gitlab.com/users/fongse)
+
+Recent work on [GitLab Orbit (knowledge-graph)](https://gitlab.com/gitlab-org/orbit/knowledge-graph): code-graph extractors, linker edges, indexer logging, and developer docs.
+[Evidence-First Reviewer](https://gitlab.com/gitlab-ai-hackathon/transcend/3757837) — AI code review on the GitLab Duo Agent Platform where every claim ships with a runnable Orbit query (GitLab Transcend Hackathon 2026).
+
 ## Contact
 
 - Email: **cyh@hcytlog.com**
